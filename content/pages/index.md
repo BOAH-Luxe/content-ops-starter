@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: 'Specialising in high-end, fully equipped short-term rentals'
       color: text-dark
     subtitle: Book with us for a luxurious and hassle-free stay!
     text: ''
