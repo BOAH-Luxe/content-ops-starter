@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: BOAH Luxury
+      label: 'BOAH LUXURY ACCOMMODATION '
       color: text-primary
       type: Badge
     elementId: ''
